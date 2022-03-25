@@ -28,5 +28,4 @@ if c >= 60:
 print("Yes, Rob passed IBI")
 else:
 print("No, he failed")
-
-
+# Use if to compare the average mark and 60 to conclude whether Bob passes IBI
