@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.list_manipulation">
+  <component name="RunManager" selected="Python.Father's age">
     <configuration name="Father's age" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical6" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,9 +92,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Father's age" />
         <item itemvalue="Python.list_manipulation" />
         <item itemvalue="Python.scatter_plot" />
-        <item itemvalue="Python.Father's age" />
       </list>
     </recent_temporary>
   </component>
