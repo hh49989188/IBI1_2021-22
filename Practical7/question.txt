@@ -1,0 +1,6 @@
+How have new cases and total cases developed overtime in Spain?
+Anwser: lines in covid.py from line 56 to 82
+Discussion:The same method was used in the previous two steps
+Let's take the new cases from Spain and the total cases and put them on a separate list
+Then the X-axis and Y-axis of the dot graph are set by the date as a filter criterion
+Use different colors and different comments to explain curves
