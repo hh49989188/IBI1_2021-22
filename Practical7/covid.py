@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 # utilize pandas as library
 covid_data = pd.read_csv("full_data.csv")
