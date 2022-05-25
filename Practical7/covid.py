@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 # utilize pandas as library
+os.chdir("D:/cygwin/IBI1_2021-22/Practical7")
 covid_data = pd.read_csv("full_data.csv")
 # use the pandas library to read the content of the.csv ﬁle into a data frame object
 covid_data.iloc[10:21,[0,2]]
